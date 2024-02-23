@@ -1,1 +1,15 @@
-# InitiateCaptureAnalyzeTelnetSessions
+<h2>Exercise 4: Initiate, Capture, and Analyze Telnet Sessions</h2>
+
+<h3>Objectives</h3>
+- ...
+<br />
+- ...
+<br />
+- ...
+<br />
+- ...
+
+<h3>Step 1: ...</h3>
+...
+<br />
+<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
