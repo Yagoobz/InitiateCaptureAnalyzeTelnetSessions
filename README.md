@@ -22,5 +22,5 @@ Returning to Wireshark, I'll begin capturing traffic on port 23. To generate the
 <h3>Step 3: Examine Telnet Packet in Wireshark</h3>
 I'm examining how TCP sends its traffic in almost real-time. First, I open the initial Telnet packet and delve into the Transmission Control Protocol (TCP). Then, I expand the flags section. I observe that the push flag is set to 1, indicating that whenever a character is received from Telnet, TCP promptly sends it. TCP aggregates the data into a single Protocol Data Unit (PDU) for efficient transmission.
 <br />
-<img src="https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions/assets/145611184/62917b81-8eca-4b0f-b63c-a106de3cb4d7" height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions/assets/145611184/bcbd6a3e-5bea-4f93-840c-24f7dd920e00" height="30%" width="70%" alt="Disk Sanitization Steps"/>
 
