@@ -27,4 +27,4 @@ I'm examining how TCP sends its traffic in almost real-time. First, I open the i
 <h3>Step 4: Follow TCP Stream for Telnet</h3>
 For further analysis, I right-click on the initial Telnet packet and select "follow TCP Stream." This action reveals the entire Telnet session, indicating that the communication is not encrypted and therefore lacks security measures. Using Telnet for communication with remote devices is insecure and not recommended.
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions/assets/145611184/e34aa4e5-d3b5-42ef-bfa5-d70b235a9be3" height="30%" width="70%" alt="Disk Sanitization Steps"/>
