@@ -17,4 +17,4 @@ In this project, I'll delve into Telnet, contrasting it with its more secure cou
 <h3>Step 2: Capture Traffic on Wireshark.</h3>
 Returning to Wireshark, I'll begin capturing traffic on port 23. To generate the traffic, I'll utilize Windows Powershell to telnet to the server. After inputting the username and password received via email, connection is established.
 <br />
-<img src="..." height="30%" width="70%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/Yagoobz/InitiateCaptureAnalyzeTelnetSessions/assets/145611184/62917b81-8eca-4b0f-b63c-a106de3cb4d7" height="30%" width="70%" alt="Disk Sanitization Steps"/>
