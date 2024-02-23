@@ -1,13 +1,13 @@
 <h2>Exercise 4: Initiate, Capture, and Analyze Telnet Sessions</h2>
 
 <h3>Objectives</h3>
-- ...
+- Establish Telnet connection using provided credentials.
 <br />
-- ...
+- Capture Telnet traffic; analyze TCP behavior.
 <br />
-- ...
+- Investigate Telnet TCP flags' significance.
 <br />
-- ...
+- Assess Telnet security risks; discuss encryption.
 
 <h3>Step 1: Account Creation and Telnet Connection</h3>
 In this project, I'll delve into Telnet, contrasting it with its more secure counterpart, SSH. To demonstrate Telnet's functionality, I'll connect to a remote device, tty.sdf.org. To initiate the process, I'll create an account on the website, which will then provide login credentials via email.
