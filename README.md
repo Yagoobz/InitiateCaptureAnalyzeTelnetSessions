@@ -1,4 +1,4 @@
-<h2>Exercise 4: Initiate, Capture, and Analyze Telnet Sessions</h2>
+<h2>Initiate, Capture, and Analyze Telnet Sessions</h2>
 
 <h3>Objectives</h3>
 - Establish Telnet connection using provided credentials.
